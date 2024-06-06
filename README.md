@@ -1,7 +1,7 @@
 # TITLE PROJECT
 
 
-![churn](brand.jpg)
+![churn](branded.jpg)
 
 
 
